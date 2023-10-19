@@ -1,0 +1,33 @@
+.Container{
+    width: 50%;
+    background-color: white;
+    border-radius: 2%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    /* box-shadow:  -2px -3px 3px 3px purple; */
+
+}
+
+.Question{
+    width: 50%;
+    padding-left: 4%;
+    padding-right: 2%;
+    padding-top: 3%;
+ }
+
+ .QuestionType{
+    width: 40%;
+ }
+
+ .option{
+    display: flex;
+    justify-content: flex-start;
+ }
+
+
+ .Footer{
+   display: flex;
+   justify-content: flex-end;
+   padding-right: 5%;
+ }

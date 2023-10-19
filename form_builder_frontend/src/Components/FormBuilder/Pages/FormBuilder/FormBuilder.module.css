@@ -1,0 +1,21 @@
+.MainContainer{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    background-color: #e7f1ff;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.Container{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    flex-direction: column;
+    gap: 30px;
+    margin-top: 64px;
+}
+.QuestionsButton{
+    color: blue;
+}
